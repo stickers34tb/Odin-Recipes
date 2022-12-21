@@ -1,0 +1,17 @@
+#page {
+    background-color: rgb(158, 38, 38);
+    text-align: center;
+}
+
+.homepage-title {
+    font-family: cursive, sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    color: hsl(180, 100%, 50%);
+}
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
